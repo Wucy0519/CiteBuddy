@@ -1,0 +1,8 @@
+Genie: Generative Interactive Environments
+Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets
+Scalable Diffusion Models with Transformers
+LoRA: Low-Rank Adaptation of Large Language Models
+Visual Instruction Tuning
+VGGT: Visual Geometry Grounded Transformer
+Proximal Policy Optimization Algorithms
+ImageNet classification with deep convolutional neural networks
